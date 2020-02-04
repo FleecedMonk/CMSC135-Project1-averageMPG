@@ -9,7 +9,7 @@ miles_travelled = float(input('Enter the miles travelled : '))
 
 ### Get the amount of gasoline used and assign it to the
 ### gasoline_used variable
-gasoline_used = input(input('Enter the amount of gasoline used : '))
+gasoline_used = float(input('Enter the amount of gasoline used : '))
 
 ### calculate the the MPG and assigned it to the
 ### calculated_MPG variable
